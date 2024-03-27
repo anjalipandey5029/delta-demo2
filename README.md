@@ -1,8 +1,3 @@
-# delta-demo2
-This is a demo for git and github class.
+# New Feature
 
-# Teacher
-Shradha Khapra
-
-# Student
-delta student
+I am Anjali Pandey.
